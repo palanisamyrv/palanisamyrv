@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Palanisamy R V 👋
 
-<!--
-**palanisamyrv/palanisamyrv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring tech & digital professional  
+💻 Background in Computer Science  
+📈 Interested in technology, marketing, and growth  
+🌱 Currently learning and building consistently  
 
-Here are some ideas to get you started:
+## What I'm focusing on
+- Improving my technical fundamentals  
+- Exploring digital marketing & analytics  
+- Building projects step by step  
+- Sharing my learning journey  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Skills & Tools (growing)
+- Git & GitHub  
+- Basics of Web & Cloud  
+- Digital Marketing fundamentals  
+
+## Connect with me
+- LinkedIn: https://www.linkedin.com/in/your-linkedin-username  
+- Instagram: https://www.instagram.com/palanisamy.rv  
+
+🚀 This profile will evolve as I grow.
 -->
