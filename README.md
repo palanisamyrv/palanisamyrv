@@ -21,6 +21,7 @@
 - Instagram: https://www.instagram.com/palanisamy.rv
 - Medium: https://medium.com/@palanirvp
 - X: https://x.com/
+- Facebook Page: https://www.facebook.com/profile.php?id=61587371728373
 
 🚀 This profile will evolve as I grow.
 -->
