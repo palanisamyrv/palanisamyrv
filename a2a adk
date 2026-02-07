@@ -1,0 +1,12 @@
+## Learning Log – Jan 2026
+
+Explored Google Cloud Live Lab on Agent to Agent (A2A) communication with ADK.
+
+✔ Installed ADK and set up environment  
+✔ Studied ADK agent structure and flow  
+➖ Partial progress on deploying an agent as an A2A server
+
+Key learning:
+Understanding agent communication protocols (JSON-RPC, agent discovery, capability sharing) is foundational to building scalable agentic systems.
+
+Continuing learning.
